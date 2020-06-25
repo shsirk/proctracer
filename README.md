@@ -1,9 +1,8 @@
 # processtracer
 Process tracer tool using intel pin dbi (for linux and windows). Tool dumps process execution with memory access and context information.
 
-get latest pin from [intel pin download](https://software.intel.com/content/www/us/en/develop/articles/pin-a-binary-instrumentation-tool-downloads.html) and extract it locally
-
 ## build
+get latest pin from [intel pin download](https://software.intel.com/content/www/us/en/develop/articles/pin-a-binary-instrumentation-tool-downloads.html) and extract it locally
 
 ### Linux
 ```
